@@ -1,0 +1,7 @@
+https://www.pyimagesearch.com/2014/11/24/detecting-barcodes-images-python-opencv/
+https://docs.opencv.org/3.2.0/d5/d0f/tutorial_py_gradients.html
+
+https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_table_of_contents_feature2d/py_table_of_contents_feature2d.html
+student
+https://docs.google.com/presentation/d/1bJuBkjt4rKc0s3xnh1KzLstUui4m39ar5Q_ZLaBFKto/edit#slide=id.g159b7e9175_0_23
+https://github.com/sc2ad/CV-Rocket-Project
